@@ -18,8 +18,8 @@ To access the design mockup used in this tutorial, visit the Figma project: [DES
 ## Getting Started
 Clone this repository to your local machine using:
 ```bash
-git clone https://github.com/vasyl-pavlenko/ui_ux_restourant.git
-cd ui_ux_gpt3
+git clone https://github.com/vasyl-pavlenko/restourant.git
+cd restourant
 npm install
 npm start
 ```
