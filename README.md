@@ -1,4 +1,4 @@
-# Restourant
+# Restaurant
 
 [DEMO](https://vasyl-pavlenko.github.io/restourant/)
 
